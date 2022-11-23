@@ -30,7 +30,7 @@ useEffect(()=>{
   return (
     <>
     <div className={loading ? "sweet-loading bg-light position-absolute w-100 border":"d-none"}>
-     <h3 className='text-danger introWord'>Created by Ulvi T. 😉</h3>
+     <h3 className='text-danger introWord'>Created by Vusal Kerimli. 😉</h3>
     <RingLoader   color={"#df1024"} loading={loading} css={override} size={180} />
       </div>
     <div className={loading? "d-none":"App"}>
