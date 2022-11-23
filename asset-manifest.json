@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Netflx/static/css/main.ffa31758.css",
-    "main.js": "/Netflx/static/js/main.2392cbe7.js",
+    "main.js": "/Netflx/static/js/main.9432891f.js",
     "static/media/bg-hero.jpg": "/Netflx/static/media/bg-hero.ba2208c06571d60ecebb.jpg",
     "static/media/profileKid.png": "/Netflx/static/media/profileKid.7e9c0c2fccea936cef07.png",
     "static/media/Laptop.png": "/Netflx/static/media/Laptop.8e6539e8bfc6937a0648.png",
@@ -9,10 +9,10 @@
     "index.html": "/Netflx/index.html",
     "static/media/logo.svg": "/Netflx/static/media/logo.5787551b8de42aef368c379572555ada.svg",
     "main.ffa31758.css.map": "/Netflx/static/css/main.ffa31758.css.map",
-    "main.2392cbe7.js.map": "/Netflx/static/js/main.2392cbe7.js.map"
+    "main.9432891f.js.map": "/Netflx/static/js/main.9432891f.js.map"
   },
   "entrypoints": [
     "static/css/main.ffa31758.css",
-    "static/js/main.2392cbe7.js"
+    "static/js/main.9432891f.js"
   ]
 }
